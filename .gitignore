@@ -172,7 +172,7 @@ cython_debug/
 *.csv
 *.xlsx
 *.sqlite
-*.tex
+# *.tex
 *.txt
 data/
 *.pptx
