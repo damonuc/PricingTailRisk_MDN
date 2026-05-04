@@ -1,8 +1,0 @@
-*.py
-*.ipynb
-*.R
-*.md
-.gitignore
-.gitattributes
-__pycache__/
-.DS_Store
