@@ -176,3 +176,4 @@ cython_debug/
 *.txt
 data/
 *.pptx
+git.md
